@@ -28,7 +28,7 @@ CONFIG_OPTIONS=""                                                         #
 CURL_OPTIONS=""                                                           #
 
 # To set "enable-ec_nistp_64_gcc_128" configuration for x64 archs set next variable to "true"
-ENABLE_EC_NISTP_64_GCC_128=""                                             #
+ENABLE_EC_NISTP_64_GCC_128="true"                                             #
 #                                                                         #
 ###########################################################################
 #                                                                         #
